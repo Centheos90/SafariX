@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012468882226",
+    "project_id": "my-api-10089",
+    "storage_bucket": "my-api-10089.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012468882226:android:dc0df6a09d8f9c59bed52b",
+        "android_client_info": {
+          "package_name": "com.safarix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012468882226-s5ruvquvnjacfs3cn53vn6oqmq9drfb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.safarix",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1012468882226-emv5hus68hkf1gbq4s02qmh8obcgqpqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHll-uBP4nCPWw5cxqxkcjWgNrwLKAdzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012468882226-emv5hus68hkf1gbq4s02qmh8obcgqpqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
